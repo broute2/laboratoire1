@@ -1,2 +1,2 @@
 print("bravo !")
-
+print("bravo")
